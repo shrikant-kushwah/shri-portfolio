@@ -1,4 +1,4 @@
-# Getting Started with Create React App >> DEMO PAGE 👇👇
+# Getting Started with Create React App >>SCREENSHOT OF  DEMO PAGE👇👇
 
 ![image](https://github.com/shrikant-kushwah/shri-portfolio/assets/96473205/b69b512d-7842-468f-aceb-10d70a21ca4a)
 
